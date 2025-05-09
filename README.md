@@ -10,4 +10,10 @@
   <br>
   <br>
   <img src="https://media.tenor.com/-unmMc78vT4AAAAj/white-cat.gif width="350" />
+  
+</p>
+
+<p align="center">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=incuriosity&show_icons=true&theme=dark#gh-dark-mode-only" alt="stats">
 </p>
