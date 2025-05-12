@@ -4,7 +4,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://incuriosity.lol">Remedy</a>.<br> I'm a Jr Software Engineer.</samp>
+  <samp>Hello there. I'm <a href="https://incuriosity.lol">Melody</a>.<br> I'm a Jr Software Engineer.</samp>
   <br>
   <br>
 </p>
