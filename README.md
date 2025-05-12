@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=incuriosity&show_icons=true&theme=dark#gh-dark-mode-only" alt="stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=melodiesrock&show_icons=false&theme=dark#gh-dark-mode-only" alt="stats">
 </p>
