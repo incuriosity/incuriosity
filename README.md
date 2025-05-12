@@ -9,8 +9,6 @@
   <br>
   <br>
   <br>
-  <img src="https://media.tenor.com/-unmMc78vT4AAAAj/white-cat.gif width="350" />
-  
 </p>
 
 <p align="center">
